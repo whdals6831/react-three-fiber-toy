@@ -14,7 +14,7 @@ createRoot(root).render(
       algorithm: theme.darkAlgorithm,
     }}
   >
-    <App />,
+    <App />
   </ConfigProvider>,
   // </StrictMode>,
 );
