@@ -9,6 +9,7 @@ export function CanvasWidget() {
   return (
     <>
       <Canvas
+        className="bg-black"
         camera={{ position: [0, 3, 10] }}
         gl={{
           toneMapping: 0,
