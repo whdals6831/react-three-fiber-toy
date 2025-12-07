@@ -1,5 +1,14 @@
 # react-three-fiber-toy
 
+### 실행 방법
+
+```bash
+npm i # 의존성 설치
+npm run dev # 실행
+```
+
+---
+
 ### Typescript + React + R3F 환경 구성
 
 > **필수**
